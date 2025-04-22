@@ -45,7 +45,7 @@ const Navbar = () => {
         </NavLink>
         <NavLink
           className="flex flex-col items-center gap-1"
-          to="https://TrendNest-admin-pannel.vercel.app"
+          to="https://trendnest-ad.netlify.app/"
           target="_blank"
         >
           <p className="px-2 rounded-md text-gray-700 border bg-slate-300 ">
@@ -151,7 +151,7 @@ const Navbar = () => {
           <NavLink
             className="py-4 pl-6 border"
             onClick={() => setVisible(false)}
-            to="https://TrendNest-admin-pannel.vercel.app"
+            to="https://trendnest-ad.netlify.app/"
             target="_blank"
           >
             <p>Admin Panel</p>
