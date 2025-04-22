@@ -1,10 +1,10 @@
-# Forever-Ecommerce
+# TrendNest-Ecommerce
 
 ## Here I'm providing some screenshots of my website
 
 ## User Feature
 
-### Homepage of Forever Ecommerce
+### Homepage of TrendNest Ecommerce
 
 - Here Some of Our Best Sellers Products and Latest Collections are Listed.
 - User Can click on any product to see about more details about that product.
@@ -35,6 +35,7 @@
 
 - Here user can login by providing the Login Credentials belongs to that user.
 - User is validating here by JWT tokens.
+- user credentials "test@gmail.com" password-"password"
 
 <img src="frontend/src/assets/login.png" alt="Login Page" style="padding:0 10px;"/>
 
@@ -80,6 +81,7 @@
 
 - Admin have the rights to add products so that user can buy them.
 - Admin can share the various angle pictures of the products.
+- Admin credentials "admin@trendnest.com" Password-"admin123"
 - Admin can Fill the product form and add the products.
 
 <img src="frontend/src/assets/add-items.png" alt="Add Item Page" style="padding:0 10px;"/>
@@ -105,13 +107,13 @@
 1. Clone this repository
 
   ```
-  git clone git@github.com:abhi051002/Forever-Ecommerce-FullStack.git
+  git clone git@github.com:abhi051002/TrendNest-Ecommerce-FullStack.git
   ```
 
 2. Then Go to the Project directory
 
   ```
-  cd Forever-Ecommerce-FullStack
+  cd TrendNest-Ecommerce-FullStack
   ```
 
 3. Go To frontend and install all dependencies
