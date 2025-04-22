@@ -17,11 +17,11 @@ const Contact = () => {
         <div className="flex flex-col justify-center items-start gap-6">
           <p className="font-semibold text-xl text-gray-600">Our Store</p>
           <p className="text-gray-500">
-            Infocity,Chandrasekharpur <br />
-            Bhubaneswar,Odisha-751024
+            Infocity,Irugur <br />
+            Coimbatore, Tamil Nadu 641103
           </p>
           <p className="text-gray-500">
-            Tel: +91 82490-01710 <br /> Email: abhijit@example.com
+            Tel: +91 86678-50510 <br /> Email: aravindhan2825@gmail.com
           </p>
           <p className="font-semibold text-xl text-gray-600">
             Careers at TrendNest

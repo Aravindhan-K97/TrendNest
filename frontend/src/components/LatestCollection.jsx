@@ -21,9 +21,7 @@ const LatestCollection = () => {
       <div className="text-center py-8 text-3xl">
         <Title text1={"LATEST"} text2={"COLLECTIONS"} />
         <p className="w-3/4 m-auto text-xs sm:text-sm md:text-base text-gray-600">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi,
-          amet doloremque asperiores, distinctio ipsum optio velit nemo rerum
-          reprehenderit, eaque ducimus ut repudiandae veniam illo!
+        "Discover a seamless and enjoyable shopping experience with TrendNest, your one-stop destination for the latest fashion, electronics, home goods, and more. TrendNest offers a diverse selection of high-quality products, all easily accessible through a user-friendly interface. Enjoy secure payment options, fast delivery, personalized recommendations, exclusive deals, and hassle-free returns. Whether you're at home or on the go, TrendNest makes online shopping convenient, stylish, and fun. Shop today and find your next favorite item with just a few taps!"
         </p>
       </div>
       {/* Rendering Products */}

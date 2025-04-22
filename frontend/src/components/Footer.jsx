@@ -7,10 +7,7 @@ const Footer = () => {
         <div>
           <img src={assets.logo} className="mb-5 w-32" alt="" />
           <p className="w-full md:w-2/3 text-gray-600">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur
-            eaque reprehenderit vero illum placeat explicabo modi, alias sint
-            esse sit commodi ad expedita fugiat maiores officia ipsa, minima
-            repellendus blanditiis.
+          "Discover a seamless and enjoyable shopping experience with TrendNest, your one-stop destination for the latest fashion, electronics, home goods, and more. TrendNest offers a diverse selection of high-quality products, all easily accessible through a user-friendly interface. Enjoy secure payment options, fast delivery, personalized recommendations, exclusive deals, and hassle-free returns. Whether you're at home or on the go, TrendNest makes online shopping convenient, stylish, and fun. Shop today and find your next favorite item with just a few taps!"
           </p>
         </div>
         <div>
@@ -25,8 +22,8 @@ const Footer = () => {
         <div>
           <p className="text-xl font-medium mb-5">GET IN TOUCH</p>
           <ul className="flex flex-col gap-1 text-gray-600">
-            <li>+91-82490-01710</li>
-            <li>abhijitnanda8249@gmail.com</li>
+            <li>+91-86678-50510</li>
+            <li>aravindhan2825@gmail.com</li>
           </ul>
         </div>
       </div>
